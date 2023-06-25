@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'roman';
+    src: url(../../public/static/fonts/Inter-roman.woff2);
+}
+@font-face {
+    font-family: 'ubuntu';
+    src: url(../../public/static/fonts/Ubuntu-L_W.woff2);
+}
