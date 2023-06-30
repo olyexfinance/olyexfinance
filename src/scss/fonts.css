@@ -6,3 +6,10 @@
     font-family: 'ubuntu';
     src: url(../../public/static/fonts/Ubuntu-L_W.woff2);
 }
+@font-face {
+    font-family: 'gilroy';
+    src: url(../../public/static/fonts/Gilroy-Light-11.otf);
+}
+
+
+

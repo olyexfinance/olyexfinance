@@ -7,6 +7,7 @@ import 'element-ui/lib/theme-chalk/index.css';
 import VueMeta from 'vue-meta'
 import "../src/scss/fonts.css"
 import "../src/style/styles.css"
+import 'animate.css';
 
 Vue.use(VueMeta)
 Vue.config.productionTip = false

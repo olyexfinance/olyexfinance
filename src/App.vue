@@ -60,7 +60,7 @@ body {
   width: 120rem;
   background: #101124;
   color: #fff;
-
+  background-image: url("./assets/webBackground.png") ;
 }
 
 * {
@@ -70,5 +70,13 @@ body {
 a {
   text-decoration: none;
   color: inherit;
+}
+
+@media (max-width: 768px) {
+  body{
+    background-image: url("./assets/移动端-背景图.png") !important;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
 }
 </style>

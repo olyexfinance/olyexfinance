@@ -4,29 +4,35 @@
         <Head></Head>
         <main class="main-pc">
             <div class="main-left">
-                <h3>Decentralized multi-chain liquidity spot & perpetual trading platform</h3>
-                <h6>A Decentralized Perpetual Exchange with Functional Risk Management and Innovative Liquidity Solutions.
-                </h6>
+                <h1>Olyex.finance<h2>Olyex.finance</h2>
+                </h1>
+
+                <h3>AI-Driven Multi-Chain Decentralized Perpetual Contract Exchange for Infinite Capital Optimization</h3>
+
                 <div class="main-left-button">
                     <button><a href="https://app.olyex.finance/" target="_blank" class="pc-button">USE APP</a></button>
+                    <button><a href="https://docs.olyex.finance/" target="_blank" class="pc-button">DOCS</a></button>
                 </div>
 
             </div>
-            <div class="main-right">
-                <img src="@/assets/图形.png" alt="">
-            </div>
+            <!-- <div class="main-right">
+                <img src="../assets/new/组 160.png" alt="">
+            </div> -->
         </main>
         <main class="main-and">
-            <h3>Decentralized multi-chain liquidity spot & perpetual trading platform</h3>
-            <h6>A Decentralized Perpetual Exchange with Functional Risk Management and Innovative Liquidity Solutions.</h6>
+            <h1>Olyex.finance<h2>Olyex.finance</h2>
+            </h1>
+            <h3>AI-Driven Multi-Chain Decentralized Perpetual Contract Exchange for Infinite Capital Optimization</h3>
+            <!-- <h6>A Decentralized Perpetual Exchange with Functional Risk Management and Innovative Liquidity Solutions.</h6> -->
             <div class=" and-button">
                 <button><a href="https://app.olyex.finance/" target="_blank">USE APP</a></button>
+                <button><a href="https://docs.olyex.finance/" target="_blank">DOCS</a></button>
             </div>
         </main>
         <div class="wrapper">
             <div class="wrapper-card">
                 <div class="wrapper-card-left">
-                    <img src="@/assets/Asset Under Management.png" alt="">
+                    <img src="../assets//new/资产管理.png" alt="">
                 </div>
                 <div class="wrapper-card-right">
                     <h2>$ 50,974,578</h2>
@@ -38,7 +44,7 @@
             </div>
             <div class="wrapper-card">
                 <div class="wrapper-card-left">
-                    <img src="@/assets/Total Trading Volume.png" alt="">
+                    <img src="@/assets/new/总交易量.png" alt="">
                 </div>
                 <div class="wrapper-card-right">
                     <h2>$ 30,264,798</h2>
@@ -50,7 +56,7 @@
             </div>
             <div class="wrapper-card">
                 <div class="wrapper-card-left">
-                    <img src="@/assets/Accrued Fees.png" alt="">
+                    <img src="@/assets/new/路径.png" alt="">
                 </div>
                 <div class="wrapper-card-right">
                     <h2>$ 40,264,538</h2>
@@ -101,10 +107,10 @@
         </div>
 
         <div class="start">
-            <h1>Start Trading</h1>
-            <h3>We are constantly introducing new perpetual contract markets.</h3>
+            <h2 ref="StartTitle">Start Trading</h2>
+            <h3 ref="startText">We are constantly introducing new perpetual contract markets.</h3>
             <div class="start-card-wrapper">
-                <div class="start-card">
+                <div class="start-card" ref="startCard1">
                     <div class="card-line1">
                         <img src="@/assets/BTC.svg" alt="">
                         <span>BTC</span>
@@ -122,7 +128,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="start-card">
+                <div class="start-card" ref="startCard2">
                     <div class="card-line1">
                         <img src="@/assets/ethereum-eth-logo.svg" alt="">
                         <span>ETH</span>
@@ -140,7 +146,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="start-card">
+                <div class="start-card" ref="startCard3">
                     <div class="card-line1">
                         <img src="@/assets/logo_chain_BNB Chain.svg" alt="">
                         <span>BNB</span>
@@ -158,7 +164,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="start-card">
+                <div class="start-card" ref="startCard4">
                     <div class="card-line1">
                         <img src="@/assets/arbitrum.svg" alt="">
                         <span>Arbitrum</span>
@@ -176,7 +182,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="start-card">
+                <div class="start-card" ref="startCard5">
                     <div class="card-line1">
                         <img src="@/assets/Optimism.svg" alt="">
                         <span>Optimism</span>
@@ -194,7 +200,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="start-card">
+                <div class="start-card" ref="startCard6">
                     <div class="card-line1">
                         <img src="@/assets/matic-logo.svg" alt="">
                         <span>Polygon</span>
@@ -310,16 +316,13 @@
             </div>
         </div>
 
-
-
-
         <div class="start">
-            <h1>Breaking Boundaries in Olyex</h1>
+            <h2>Breaking Boundaries in Olyex</h2>
             <h3>Welcome to the new era of perpetual trading.</h3>
             <div class="olyex-card-wrapper">
                 <div class="olyex-card">
                     <div class="olyex-line1">
-                        <img src="@/assets/LeveragedTrading.png" alt="">
+                        <img src="../assets//new/LeveragedTrading.png" alt="">
                     </div>
                     <h1>Multi-chain shared liquidity</h1>
                     <h3>In Olyex, you can choose any chain to open a position, and the capital utilization rate is high.
@@ -328,23 +331,23 @@
                 </div>
                 <div class="olyex-card">
                     <div class="olyex-line1">
-                        <img src="@/assets/Real Yield.png" alt="">
+                        <img src="../assets//new/User-Friendly.png" alt="">
+                    </div>
+                    <h1>Maximize capital efficiency</h1>
+                    <h3>The platform assets will achieve maximum output profitability. </h3>
+
+                </div>
+                <div class="olyex-card">
+                    <div class="olyex-line1">
+                        <img src="../assets//new/Real Yield.png" alt="">
                     </div>
                     <h1>Real Yield</h1>
-                    <h3>Stake and mine real income in ETH. </h3>
+                    <h3>Stake and mine real income in ETH.</h3>
 
                 </div>
                 <div class="olyex-card">
                     <div class="olyex-line1">
-                        <img src="@/assets/Self-Custody.png" alt="">
-                    </div>
-                    <h1>Self-Custody</h1>
-                    <h3>Total control of your funds.</h3>
-
-                </div>
-                <div class="olyex-card">
-                    <div class="olyex-line1">
-                        <img src="@/assets/Accrued Fees.png" alt="">
+                        <img src="../assets//new/Lowest Fees.png" alt="">
                     </div>
                     <h1>Lowest Fees</h1>
                     <h3>Enter and exit positions with minimal spread and zero price impact.</h3>
@@ -352,14 +355,14 @@
                 </div>
                 <div class="olyex-card">
                     <div class="olyex-line1">
-                        <img src="@/assets/Asset Under Management.png" alt="">
+                        <img src="../assets//new/Transparency.png" alt="">
                     </div>
                     <h1>Transparency</h1>
-                    <h3>Fully transparent open-source smart contracts. </h3>
+                    <h3>Fully transparent open-source smart contracts.</h3>
                 </div>
                 <div class="olyex-card">
                     <div class="olyex-line1">
-                        <img src="@/assets/User-Friendly.png" alt="">
+                        <img src="../assets//new/Leveraged Trading.png" alt="">
                     </div>
                     <h1>Leveraged Trading</h1>
                     <h3>Innovative trading solution for BTC, ETH, OP and BNB,with up to 100x leverage.</h3>
@@ -385,20 +388,20 @@
 
                 <div class="olyex-card">
                     <div class="olyex-line1">
-                        <img src="@/assets/Real Yield.svg" alt="">
-                        <h1>Real Yield</h1>
+                        <img src="@/assets/User-Friendly.svg" alt="">
+                        <h1>Maximize capital efficiency</h1>
                     </div>
 
-                    <h3>Stake and mine real income in ETH. </h3>
+                    <h3>The platform assets will achieve maximum output profitability.</h3>
 
                 </div>
                 <div class="olyex-card">
                     <div class="olyex-line1">
-                        <img src="@/assets/Self-Custody.svg" alt="">
-                        <h1>Self-Custody</h1>
+                        <img src="@/assets/Real Yield.svg" alt="">
+                        <h1>Real Yield</h1>
                     </div>
 
-                    <h3>Total control of your funds.</h3>
+                    <h3>Stake and mine real income in ETH.</h3>
 
                 </div>
                 <div class="olyex-card">
@@ -420,7 +423,7 @@
                 </div>
                 <div class="olyex-card">
                     <div class="olyex-line1">
-                        <img src="@/assets/User-Friendly.svg" alt="">
+                        <img src="@/assets/Leveraged Trading.svg" alt="">
                         <h1>Leveraged Trading</h1>
                     </div>
 
@@ -430,16 +433,61 @@
             </div>
         </div>
 
+        <div class="journey">
+            <h2>Your Journey With Olyex Begins Here</h2>
+            <img src="../assets/new/组 155.png" ref="imgSrc">
+            <div class="journey-content" @scroll="scrollChange">
+                <div class="journey-content-right">
+                    <div class="emptyBox"></div>
+                    <h1>{{ journeyData[0].title }}</h1>
+                    <span>{{ journeyData[0].text }}</span>
+                </div>
+                <div class="journey-content-right " :class="{ 'toggles': isSelect2 }">
+                    <div class="emptyBox"></div>
+                    <h1>{{ journeyData[1].title }}</h1>
+                    <span>{{ journeyData[1].text }}</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="journey-and">
+            <h2>Your Journey With Olyex Begins Here</h2>
+
+            <div class="journey-content">
+                <div class="journey-content-card">
+                    <div class="card-title">
+                        <div class="emptyBox"></div>
+                        <h2>Earn high rewards by pro-viding liquidity</h2>
+                    </div>
+                    <span>Olyex liquidity providers earn a share of 65% to 70% of the income and Defi liquidity rewards when
+                        staking. Harvest your earnings with OLP.</span>
+                    <img src="../assets/new/组 155.png">
+                </div>
+
+                <div class="journey-content-card">
+                    <div class="card-title">
+                        <div class="emptyBox"></div>
+                        <h2>Incentivized Trade with le-verage</h2>
+                    </div>
+                    <span>Leverage our synthetic, permissionless trading for extensive crypto and asset pairs. Go long or
+                        short with high leverage and enjoy rewarding daily incentives.</span>
+                    <img src="../assets/new/组 157.png">
+                </div>
+
+            </div>
+        </div>
 
 
         <div class="partners">
-            <h1>Partners</h1>
+            <h2>Partners</h2>
             <ul class="partners-img">
-                <li><img src="@/assets/zksync 1.svg" alt=""></li>
-                <li><img src="@/assets/arbitrum 1.svg" alt=""></li>
-                <li><img src="@/assets/optimism 1.svg" alt=""></li>
-                <li><img src="@/assets/bnbchain 1.svg" alt=""></li>
-                <li><img src="@/assets/fantom 1.svg" alt=""></li>
+                <li class="animate__animated" ref="partners1"><img src="@/assets/zksync 1.svg" alt=""></li>
+                <li class="animate__animated" ref="partners2"><img src="@/assets/arbitrum 1.svg" alt=""></li>
+                <li class="animate__animated" ref="partners3"><img src="@/assets/optimism 1.svg" alt=""></li>
+            </ul>
+            <ul class="partners-img-line2">
+                <li class="animate__animated" ref="partners4"><img src="@/assets/bnbchain 1.svg" alt=""></li>
+                <li class="animate__animated" ref="partners5"><img src="@/assets/fantom 1.svg" alt=""></li>
             </ul>
         </div>
 
@@ -455,11 +503,11 @@
         </div>
 
         <Footer></Footer>
-        <div class="background-img">
-            <img src="@/assets/整体背景装饰.png" alt="">
-        </div>
+        <!-- <div class="background-img">
+            <img src="@/assets/webBackground.png" alt="">
+        </div> -->
         <div class="background-img-and">
-            <img src="@/assets/整体背景装饰.png" alt="">
+            <!-- <img src="../assets/移动端-背景图.png" alt=""> -->
         </div>
     </div>
 </template>
@@ -468,6 +516,9 @@
 import axios from 'axios'
 import Head from '@/components/Head.vue'
 import Footer from '@/components/Footer.vue'
+import img1 from '../assets/new/组 155.png'
+import img2 from '../assets/new/组 157.png'
+import img3 from '../assets/new/组 158.png'
 export default {
     name: 'index',
     metaInfo: {
@@ -495,7 +546,16 @@ export default {
                 { title: "Learn", children: [{ title: "Medium", link: "https://medium.com/@olyexfinance" }, { title: "Gitbook", link: "https://docs.olyex.finance/" }, { title: "Github", link: "#" }] },
                 { title: "Community", children: [{ title: "Twitter", link: "https://twitter.com/Olyexfinance" }, { title: "Discord", link: "#" }, { title: "Telegram", link: "https://t.me/olyexfinance" }, { title: "Email", link: "#" }] },
 
-            ]
+            ],
+            journeyData: [
+                { src: img1, title: "Earn high rewards by providing liquidity", text: "Olyex liquidity providers earn a share of 65% to 70% of the income and Defi liquidity rewards when staking. Harvest your earnings with OLP." },
+                { src: img2, title: "Incentivized Trade with leverage", text: " Leverage our synthetic, permissionless trading for extensive crypto and asset pairs. Go long or short with high leverage and enjoy rewarding daily incentives." },
+            ],
+            currentJourney: { src: img1, title: "Earn high rewards by providing liquidity", text: "Olyex liquidity providers earn a share of 65% to 70% of the income and Defi liquidity rewards when staking. Harvest your earnings with OLP." },
+            imgSrc: img1,
+            isSelect2: true,
+            isSelect3: false,
+            img1src: img1, img2src: img2
         }
     },
     mounted() {
@@ -507,6 +567,9 @@ export default {
         setInterval(() => {
             this.getPricePercent()
         }, 3000);
+        window.addEventListener("scroll", (e) => {
+            // console.log(window.scrollY);
+        })
     },
     methods: {
         async getPrice() {
@@ -539,7 +602,20 @@ export default {
                 }
             })
             this.pricePercent = res.data
-            // console.log("currentPrice", res.data);
+        },
+        scrollChange(e) {
+
+            if (e.target.scrollTop < 190) {
+                this.isSelect2 = true
+            } else if (e.target.scrollTop > 190) {
+                this.isSelect2 = false
+                this.isSelect3 = true
+
+            } else {
+                this.isSelect2 = true
+                this.isSelect3 = false
+                this.imgSrc = img3
+            }
         }
     }
 }
@@ -548,57 +624,114 @@ export default {
 main {
     display: flex;
     align-items: center;
-    margin-top: 3.125rem;
+    margin-top: 14.25rem;
+    box-sizing: border-box;
+    padding-left: 22.5rem;
+    padding-right: 22.5rem;
+    position: relative;
 
     .main-left {
-        margin-left: 16.25rem;
+        text-align: center;
 
-        h3 {
-            font-size: 3.25rem;
-            letter-spacing: 0em;
-            background: #fff;
+        h1 {
+            opacity: 1;
+            font-size: 4.375rem;
+            background: linear-gradient(180deg, #2A34FF 26%, #3EBDFF 79%);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
             background-clip: text;
+            color: transparent;
+            display: -webkit-box;
+            -webkit-box-orient: vertical;
+            -webkit-line-clamp: 1;
+            overflow: hidden;
+            position: relative;
+
+            h2 {
+                font-size: 4.375rem;
+                position: absolute;
+                left: 23.0875rem;
+                top: .1875rem;
+                z-index: -10;
+                -webkit-text-stroke: .0625rem gray;
+                /* 设置文字描边样式，可以调整描边的粗细和颜色 */
+                -webkit-text-fill-color: transparent;
+                /* 将文字颜色设置为透明 */
+            }
+
+        }
+
+
+
+        >h3 {
+            margin-top: .875rem;
+            font-size: 2.75rem;
+            background: #fff;
+            -webkit-background-clip: text;
+            background-clip: text;
             margin-bottom: 1.25rem;
             font-weight: bold;
+            line-height: 4.375rem;
+            text-indent: 2em;
+            padding: 0 89px;
+            box-sizing: border-box;
+
+            // border: 1px solid red;
+            >span {
+                // opacity: 1;
+                // background: linear-gradient(180deg, #2A34FF 26%, #3EBDFF 79%);
+                // -webkit-background-clip: text;
+                // -webkit-text-fill-color: transparent;
+                // background-clip: text;
+                // color: #2A34FF;
+                font-size: 3.4375rem;
+            }
         }
 
         h6 {
-            font-size: .875rem;
+            font-size: 1.125rem;
             font-weight: normal;
-            color: #CCCCCC;
+            line-height: 1.875rem;
+            letter-spacing: 0em;
+            color: #BCBBE7;
         }
 
         .main-left-button {
             margin-top: 4.1875rem;
 
             button {
-                width: 150px;
-                height: 50px;
-                border-radius: 8rem;
-                opacity: 1;
-                background: linear-gradient(90deg, rgba(11, 11, 50, 0.60) 0%, rgba(38, 37, 83, 0.60) 100%);
-                box-sizing: border-box;
-                border: .0625rem solid #73729B;
-                backdrop-filter: blur(.625rem);
-                font-size: 14pxTRADE NOW;
-                font-weight: normal;
-                color: #FFFFFF;
-                margin-right: 3.125rem;
+                margin-right: 1.875rem;
+                
                 cursor: pointer;
+                font-size: .875rem;
+                color: #F6F6FF;
+                width: 10.875rem;
+                height: 3.125rem;
+                border-radius: .625rem;
+                opacity: 1;
+                background: linear-gradient(71deg, #2A39FF 7%, #3DB9FF 90%);
+                backdrop-filter: blur(10px);
+                border: none;
 
                 &:hover {
                     transform: scale(1.05);
                     border-color: rgb(54, 145, 219);
+                }
+
+                &:last-child {
+                    background: linear-gradient(71deg, rgba(42, 57, 255, 0.10) 7%, rgba(61, 185, 255, 0.10) 90%);
+                    box-sizing: border-box;
+                    border-radius: .625rem;
+                    border: .0625rem solid rgb(54, 145, 219);
+                    color: #3EB7FF;
+                    // border: none;
                 }
             }
         }
     }
 
     .main-right {
-        margin-left: 3.125rem;
-        height: 43.75rem;
+        height: 54.375rem;
 
         img {
             height: 100%;
@@ -606,6 +739,8 @@ main {
         }
     }
 }
+
+
 
 .wrapper {
     margin-top: 8.875rem;
@@ -715,6 +850,10 @@ main {
                 font-weight: normal;
                 letter-spacing: 0em;
                 color: #BCBBE7;
+                display: -webkit-box;
+                -webkit-box-orient: vertical;
+                -webkit-line-clamp: 1;
+                overflow: hidden;
             }
         }
     }
@@ -725,26 +864,28 @@ main {
     padding: 0 22.5rem;
     margin-top: 9.375rem;
 
-    >h1 {
+    // border: 1px solid red;
+    >h2 {
         margin: 0 auto;
         text-align: center;
-
         font-size: 3.125rem;
-        font-weight: normal;
+        font-weight: bold;
         letter-spacing: 0em;
         color: #FFFFFF;
+        // display: none;
+        animation: 5s ease-out slidein;
     }
 
     h3 {
         margin: 0 auto;
         text-align: center;
-
-        font-size: .875rem;
+        font-size: 1.25rem;
         font-weight: normal;
         line-height: 1.5rem;
         letter-spacing: 0em;
         color: #CCCCCC;
         margin-top: 1.25rem;
+        // display: none;
     }
 
     .start-card-wrapper {
@@ -922,61 +1063,58 @@ main {
     margin-top: 5rem;
     justify-content: space-between;
     flex-wrap: wrap;
+    // border: 1px solid orangered;
 
     .olyex-card {
         box-sizing: border-box;
         padding: 1.875rem;
         margin-bottom: 1.875rem;
-        width: 23.75rem;
-        height: 11.875rem;
-        border-radius: .625rem;
+        width: 32.8125rem;
         opacity: 1;
-        border: .0625rem solid transparent;
-        position: relative;
-        background-image: url("@/assets/边框装饰2.png");
+        // background-image: url("@/assets/边框装饰2.png");
         display: flex;
         flex-direction: column;
         justify-content: space-between;
-        z-index: 100;
         cursor: pointer;
 
-        &::after {
-            display: block;
-            content: "";
-            left: 0;
-            top: 0;
-            position: absolute;
-            width: 23.75rem;
-            height: 11.875rem;
-            border-radius: .625rem;
-            opacity: 1;
-            background: rgba(18, 19, 41, 0.2);
-            box-sizing: border-box;
-            border: .0625rem solid rgba(115, 114, 155, 0.6);
-            box-shadow: inset 0rem 0rem 1.25rem 0rem rgba(115, 114, 155, 0.4);
-            z-index: -10;
-        }
+        // &::after {
+        //     display: block;
+        //     content: "";
+        //     left: 0;
+        //     top: 0;
+        //     position: absolute;
+        //     width: 23.75rem;
+        //     height: 11.875rem;
+        //     border-radius: .625rem;
+        //     opacity: 1;
+        //     background: rgba(18, 19, 41, 0.2);
+        //     box-sizing: border-box;
+        //     border: .0625rem solid rgba(115, 114, 155, 0.6);
+        //     box-shadow: inset 0rem 0rem 1.25rem 0rem rgba(115, 114, 155, 0.4);
+        //     z-index: -10;
+        // }
 
-        &:hover {
-            transform: scale(1.05);
-            background: linear-gradient(90deg, rgba(11, 11, 50, 0.60) 0%, rgba(38, 37, 83, 0.60) 100%);
-            box-sizing: border-box;
-            border: .0625rem solid rgba(115, 114, 155, 0.6);
-            box-shadow: inset 0rem 0rem 1.25rem 0rem rgba(115, 114, 155, 0.4);
-            transition: all 0.5s;
-        }
+        // &:hover {
+        //     transform: scale(1.05);
+        //     background: linear-gradient(90deg, rgba(11, 11, 50, 0.60) 0%, rgba(38, 37, 83, 0.60) 100%);
+        //     box-sizing: border-box;
+        //     border: .0625rem solid rgba(115, 114, 155, 0.6);
+        //     box-shadow: inset 0rem 0rem 1.25rem 0rem rgba(115, 114, 155, 0.4);
+        //     transition: all 0.5s;
+        // }
 
         .olyex-line1 {
+            margin-bottom: 1.25rem;
+
             img {
                 display: block;
-                width: 2.5rem;
+                width: 3.75rem;
             }
         }
 
         >h1 {
             text-align: left;
-
-            font-size: 1.25rem;
+            font-size: 1.875rem;
             font-weight: normal;
             letter-spacing: 0em;
             color: #FFFFFF;
@@ -984,12 +1122,9 @@ main {
         }
 
         >h3 {
-            // margin-top: 0;
-
-            font-size: .75rem;
+            font-size: 1.25rem;
             font-weight: normal;
-            line-height: 1.3125rem;
-
+            line-height: 2.5rem;
             /* 浏览器可能不支持 */
             letter-spacing: 0em;
             color: #BCBBE7;
@@ -1004,14 +1139,13 @@ main {
 }
 
 .partners {
-    >h1 {
+    >h2 {
         margin: 0 auto;
         text-align: center;
-
         font-size: 3.125rem;
-        font-weight: normal;
         letter-spacing: 0em;
         color: #FFFFFF;
+        font-weight: bold;
     }
 
     text-align: center;
@@ -1020,10 +1154,9 @@ main {
     padding-bottom: 8.8125rem;
 
     .partners-img {
-        margin-top: 3.75rem;
+        margin-top: 6.25rem;
         padding: 0 21.875rem;
         display: flex;
-        // align-items: center;
         justify-content: space-around;
         align-items: center;
 
@@ -1034,7 +1167,27 @@ main {
             cursor: pointer;
 
             img {
-                width: 8.375rem;
+                height: 4rem;
+            }
+        }
+    }
+
+    .partners-img-line2 {
+        padding: 0 24.1875rem;
+        box-sizing: border-box;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        margin-top: 6.25rem;
+
+        >li {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            cursor: pointer;
+
+            img {
+                height: 4rem;
             }
         }
     }
@@ -1043,7 +1196,7 @@ main {
 
 .background-img {
     position: absolute;
-    top: -1.25rem;
+    top: 0px;
     left: 0;
     z-index: -1;
     height: 100%;
@@ -1051,7 +1204,6 @@ main {
 
     img {
         display: block;
-        height: 100%;
         width: 100%;
     }
 }
@@ -1080,11 +1232,97 @@ main {
     display: none;
 }
 
+.journey-and {
+    display: none;
+}
+
 .background-img-and {
     display: none;
 }
 
+@keyframes slidein {
+    from {
+        opacity: 0;
+        margin-top: 100px;
+    }
 
+    to {
+        opacity: 1;
+        margin-top: 0px;
+    }
+}
+
+
+
+.journey {
+    margin-bottom: 2rem;
+    height: 40.625rem;
+    padding: 0 22.5rem;
+    margin-top: 6.25rem;
+    position: relative;
+
+    >h2 {
+        font-size: 3.125rem;
+        color: #FFFFFF;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    >img {
+        width: 39.75rem;
+        // display: none;
+        margin-top: 4.4375rem;
+    }
+
+    .journey-content {
+        margin-top: 6.4375rem;
+        position: absolute;
+        left: 60.625rem;
+        top: 0rem;
+        width: 37.5rem;
+        height: 25.625rem;
+        overflow: auto;
+        padding-top: 4.25rem;
+        padding-right: 20rem;
+
+        &::-webkit-scrollbar {
+            width: 0.8em;
+            background-color: transparent;
+        }
+
+        .journey-content-right {
+            margin: 0 6.9375rem;
+            margin-bottom: 3.75rem;
+
+            .emptyBox {
+                width: 3.75rem;
+                height: .75rem;
+                opacity: 1;
+                background: linear-gradient(79deg, #2E50FF 0%, #3BB2FF 100%);
+            }
+
+            >h1 {
+                font-size: 1.875rem;
+                font-weight: normal;
+                color: #FFFFFF;
+                margin: 1.25rem 0;
+                font-weight: bold;
+            }
+
+            >span {
+                font-size: 1.25rem;
+                font-weight: normal;
+                line-height: 2.5rem;
+                color: #BCBBE7;
+
+            }
+        }
+    }
+
+    .toggles {
+        opacity: 0.5;
+    }
+}
 
 
 
@@ -1100,42 +1338,92 @@ main {
     }
 
     .main-and {
-        margin-top: 10rem;
+        margin-top: 40.5rem;
         box-sizing: border-box;
         display: block;
-        padding: 0 22.5rem;
+        padding: 0 8.2rem;
+
+        h1 {
+            text-align: center;
+            opacity: 1;
+            font-size: 12.4rem;
+            background: linear-gradient(180deg, #2A34FF 26%, #3EBDFF 79%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            color: transparent;
+            position: relative;
+
+            h2 {
+                font-size: 12.4rem;
+                position: absolute;
+                left: 10.5875rem;
+                top: 0.5875rem;
+                z-index: -10;
+                -webkit-text-stroke: .3625rem gray;
+                -webkit-text-fill-color: transparent;
+            }
+
+        }
 
         h3 {
-            font-size: 9rem;
+            margin-top: 7rem;
+            font-size: 7rem;
             font-weight: bold;
             text-align: center;
             color: #FFFFFF;
+            line-height: 12rem;
+
+            span {
+                font-size: 9rem;
+            }
         }
 
         h6 {
             margin-top: 7rem;
             font-size: 5rem;
             text-align: center;
-            color: #CCCCCC;
+            color: #BCBBE7;
+            line-height: 8rem;
         }
 
         .and-button {
-            display: block;
+            display: flex;
+            justify-content: center;
+            align-items: center;
             margin-top: 15rem;
             box-sizing: border-box;
-            padding-left: 20rem;
+            flex-direction: column;
 
             >button {
-                width: 30rem;
-                height: 10rem;
-                font-size: 3rem;
-                border-radius: 8rem;
-                background: linear-gradient(90deg, rgba(11, 11, 50, 0.60) 0%, rgba(38, 37, 83, 0.60) 100%);
+                width: 50rem;
+                height: 17rem;
+                font-size: 5rem;
+                border-radius: 3rem;
+                background: linear-gradient(68deg, #2A39FF 7%, #3DB9FF 91%);
                 font-weight: 500;
                 color: #FFFFFF;
-                border: 1px solid #73729B;
+                border: none;
                 padding: 2rem;
+                margin-bottom: 5rem;
 
+                &:last-child {
+                    // border-image: linear-gradient(76deg, #2A39FF 1%, #3DB9FF 100%) 1;
+                    // box-sizing: border-box;
+                    color: #fff;
+                    // border: 1px solid;
+                    // // border: none;
+                    // background: linear-gradient(68deg, rgba(42, 57, 255, 0.10) 7%, rgba(61, 185, 255, 0.10) 91%);
+
+
+                    background: rgba(18, 19, 41, 0.2);
+
+                    box-sizing: border-box;
+                    border: 1px solid rgba(115, 114, 155, 0.6);
+
+                    backdrop-filter: blur(10px);
+                    box-shadow: inset 0px 0px 20px 0px rgba(115, 114, 155, 0.4);
+                }
 
             }
         }
@@ -1392,8 +1680,10 @@ main {
     .start-olyex-and {
         display: block;
         box-sizing: border-box;
-        padding: 0 10rem;
+        padding: 0 7rem;
         text-align: center;
+        margin-top: 9rem;
+
         >h1 {
             font-size: 9rem;
             font-weight: bold;
@@ -1413,56 +1703,35 @@ main {
 
             .olyex-card {
                 width: 98rem;
-                height: 42rem;
+                // height: 42rem;
                 border: 1px solid transparent;
                 display: block;
                 margin-bottom: 5rem;
                 position: relative;
                 box-sizing: border-box;
-                padding: 0 5rem;
 
-                // border: 1px solid red;
-                &::after {
-                    // display: none;
-                    content: "";
-                    display: block;
-                    top: 0rem;
-                    left: 0rem;
-                    position: absolute;
-                    width: 98rem;
-                    height: 42rem;
-                    border-radius: .625rem;
-                    opacity: 0.5;
-                    background: rgba(18, 19, 41, 0.2);
-                    box-sizing: border-box;
-                    backdrop-filter: blur(.625rem);
-                    border: 1px solid rgba(115, 114, 155, 0.6);
-                    z-index: -10;
-                }
 
                 .olyex-line1 {
-                    display: flex;
-                    align-items: center;
                     margin-top: 3rem;
+                    text-align: left;
 
                     >img {
                         width: 13rem;
                     }
 
                     >h1 {
-                        margin-left: 4rem;
                         font-size: 5rem;
                         font-weight: bold;
                         color: #FFFFFF;
+                        margin-top: 8rem;
                     }
                 }
 
                 >h3 {
-                    font-size: 14px;
-                    line-height: 21px;
+                    font-size: 4rem;
+                    line-height: 8.3125rem;
                     color: #BCBBE7;
-                    padding-left: 16rem;
-                    margin-top: 5rem;
+                    margin-top: 3rem;
                 }
             }
         }
@@ -1470,6 +1739,10 @@ main {
 
     .partners-and {
         display: block;
+        text-align: center;
+        margin-top: 18rem;
+        font-size: 3.125rem;
+        padding-bottom: 8.8125rem;
 
         >h1 {
             font-size: 9rem;
@@ -1477,13 +1750,10 @@ main {
             color: #FFFFFF;
         }
 
-        text-align: center;
-        margin-top: 7.5rem;
-        font-size: 3.125rem;
-        padding-bottom: 8.8125rem;
+
 
         .partners-img {
-            margin-top: 3.75rem;
+            margin-top: 9.75rem;
             padding: 0 15rem;
             display: flex;
             justify-content: space-between;
@@ -1518,6 +1788,81 @@ main {
             display: block;
             width: 100%;
         }
+    }
+
+
+    .journey {
+        display: none;
+    }
+
+    .journey-and {
+        display: block;
+        box-sizing: border-box;
+        padding: 0 5.8rem;
+        margin-top: 10.1rem;
+
+        >h2 {
+            font-size: 8.11rem;
+            font-weight: bold;
+            text-align: center;
+            letter-spacing: 0em;
+            color: #FFFFFF;
+        }
+
+        .journey-content {
+            margin-top: 8.7rem;
+
+            .journey-content-card {
+                padding: 5.8rem;
+                box-sizing: border-box;
+                border-radius: 3px;
+                opacity: 1;
+                background: rgba(18, 19, 41, 0.2);
+                box-sizing: border-box;
+                border: 1px solid rgba(115, 114, 155, 0.6);
+                backdrop-filter: blur(10px);
+                box-shadow: inset 0px 0px 5.8rem 0px rgba(115, 114, 155, 0.4);
+                margin-bottom: 5.8rem;
+
+                .card-title {
+                    display: flex;
+                    align-items: center;
+                    margin-bottom: 5.8rem;
+
+                    .emptyBox {
+                        width: 8.1rem;
+                        height: 2.2rem;
+                        transform: rotate(-90deg);
+                        opacity: 1;
+                        background: linear-gradient(75deg, #2E50FF 0%, #3BB2FF 100%);
+                    }
+
+                    h2 {
+                        font-size: 5.8rem;
+                        font-weight: bold;
+                        color: #FFFFFF;
+                        margin-left: 5.8rem;
+
+                    }
+                }
+
+                span {
+                    font-size: 4.5rem;
+                    font-weight: normal;
+                    line-height: 8rem;
+                    text-align: justify;
+                    color: #BCBBE7;
+                }
+
+                img {
+                    display: block;
+                    width: 100%;
+                    margin-top: 5.8rem;
+                    opacity: 1;
+                }
+            }
+        }
+
     }
 }
 </style>
