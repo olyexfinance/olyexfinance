@@ -448,6 +448,58 @@
                     <span>{{ journeyData[1].text }}</span>
                 </div>
             </div>
+
+            <div class="details">
+                <div class="details-line">
+                    <div class="details-text">
+                        <h2>
+                            Smart routing enables the sharing of liquidity
+                        </h2>
+                        <h2>
+                            across multiple chains.
+                        </h2>
+                        <div class="box">
+                            <img class="decorate1" src="../assets/decorate.png" alt="">
+                            <p class="details-description">
+                                Smart routing bots monitor the overall liquidity and reserved liquidity for margin trading.
+                                When
+                                a trader places an order, the smart routing bot calculates the available liquidity across
+                                the
+                                deployed networks and fills the order if it meets the position size requirements.
+                            </p>
+                            <div class="details-img">
+                                <img src="../assets/flow1.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="details-line">
+                    <div class="details-text">
+                        <h2>
+                            Maximum Capital Efficiency
+                        </h2>
+                        <h2>
+                            Liquidity flows to where its needed the most.
+                        </h2>
+                        <div class="box">
+                            <img class="decorate2" src="../assets/decorate.png" alt="">
+                            <p class="details-description">
+                                Olyex's self-learning and predictive AI model dynamically adapts to provide liquidity across
+                                multiple chains, assets, and protocols. This includes margin trading within the platform,
+                                third-party DEX mining, lending, and more, with the aim of significantly maximizing the
+                                utilization of liquidity and enhancing overall liquidity efficiency across different
+                                networks, assets, and protocols.
+                            </p>
+                            <div class="details-img">
+                                <img src="../assets/flow2.png" alt="">
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
         </div>
 
         <div class="journey-and">
@@ -475,8 +527,128 @@
                 </div>
 
             </div>
+            <h2 style="padding-top: 13rem;">
+                Smart routing enables the sharing of liquidity across multiple chains.
+            </h2>
+            <div class="journey-card">
+                <p>Smart routing bots monitor the overall liquidity and reserved liquidity for margin trading. When a trader
+                    places an order, the smart routing bot calculates the available liquidity across the deployed networks
+                    and fills the order if it meets the position size requirements.
+                </p>
+                <div class="img-box">
+                    <img src="../assets/flow1-and.png" alt="">
+                </div>
+
+                <img src="../assets/decorate-and.png" class="decorate" alt="">
+            </div>
+
+            <h2 style="padding-top: 13rem;">
+                Maximum Capital Efficiency Liquidity flows to where its needed the most.
+            </h2>
+
+            <div class="journey-card">
+                <p>Smart routing bots monitor the overall liquidity and reserved liquidity for margin trading. When a trader
+                    places an order, the smart routing bot calculates the available liquidity across the deployed networks
+                    and fills the order if it meets the position size requirements.
+                </p>
+                <div class="img-box">
+                    <img src="../assets/flow2-and.png" alt="">
+                </div>
+                <img src="../assets/decorate-and.png" class="decorate2" alt="">
+            </div>
         </div>
 
+        <!-- <div class="return">
+            <h2>Olyex's LP staking APR</h2>
+            <div class="data">
+                <div class="data-left">
+                    <h3 class="data-left-title">
+                        Return on Investment
+                    </h3>
+                    <div class="img" id="echarts1">
+                    </div>
+                    <div class="echarts-explain">
+                        <div>
+                            <div class="empty-box1"></div>
+                            <h4 class="olyexText">Olyex</h4>
+                        </div>
+                        <div>
+                            <div class="empty-box2"></div>
+                            <h4>GMX</h4>
+                        </div>
+                        <div>
+                            <div class="empty-box3"></div>
+                            <h4>DYDX</h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="data-left">
+                    <h3 class="data-left-title">
+                        Processing fee
+                    </h3>
+                    <div class="img" id="echarts2">
+                    </div>
+                    <div class="echarts-explain">
+                        <div>
+                            <div class="empty-box1"></div>
+                            <h4 class="olyexText">Olyex</h4>
+                        </div>
+                        <div>
+                            <div class="empty-box2"></div>
+                            <h4>GMX</h4>
+                        </div>
+                        <div>
+                            <div class="empty-box3"></div>
+                            <h4>DYDX</h4>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div> -->
+
+        <!-- <div class="return-and">
+            <h2>
+                Olyex's data is all here
+            </h2>
+
+            <div class="return-and-card">
+                <h2>Return on Investment</h2>
+                <div class="echartsAnd1" id="echartsAnd1"></div>
+                <div class="echarts-adn-explain">
+                    <div>
+                        <div class="empty-box1"></div>
+                        <h4 class="olyexText">Olyex</h4>
+                    </div>
+                    <div>
+                        <div class="empty-box2"></div>
+                        <h4>GMX</h4>
+                    </div>
+                    <div>
+                        <div class="empty-box3"></div>
+                        <h4>DYDX</h4>
+                    </div>
+                </div>
+            </div>
+
+            <div class="return-and-card">
+                <h2>Processing fee</h2>
+                <div class="echartsAnd1" id="echartsAnd2"></div>
+                <div class="echarts-adn-explain">
+                    <div>
+                        <div class="empty-box1"></div>
+                        <h4 class="olyexText">Olyex</h4>
+                    </div>
+                    <div>
+                        <div class="empty-box2"></div>
+                        <h4>GMX</h4>
+                    </div>
+                    <div>
+                        <div class="empty-box3"></div>
+                        <h4>DYDX</h4>
+                    </div>
+                </div>
+            </div>
+        </div> -->
 
         <div class="partners">
             <h2>Partners</h2>
@@ -570,6 +742,7 @@ export default {
         window.addEventListener("scroll", (e) => {
             // console.log(window.scrollY);
         })
+        // this.changetype();
     },
     methods: {
         async getPrice() {
@@ -616,7 +789,135 @@ export default {
                 this.isSelect3 = false
                 this.imgSrc = img3
             }
-        }
+        },
+        // changetype() {
+        //     // 获取组件实例
+        //     const machart = this.$echarts.init(document.getElementById("echarts1"));
+        //     // const machart2 = this.$echarts.init(document.getElementById("echarts2"));
+        //     const echartsAnd1 = this.$echarts.init(document.getElementById("echartsAnd1"));
+        //     // const echartsAnd2 = this.$echarts.init(document.getElementById("echartsAnd2"));
+        //     var option;
+        //     //get current time
+        //     let currentTime=new Date()
+        //     // console.log(currentTime.getFullYear());
+        //     // console.log(currentTime.getMonth()+1);
+        //     let currentYear=currentTime.getFullYear()
+        //     let currentMonth=currentTime.getMonth()+1
+        //     option = {
+        //         xAxis: {
+        //             type: 'category',
+        //             data: [`${currentYear}-${currentMonth-3}`, `${currentYear}-${currentMonth-2}`, `${currentYear}-${currentMonth-1}`, `${currentYear}-${currentMonth}`],
+        //         },
+        //         yAxis: {
+        //             type: 'value',
+        //             axisLine: { // Hidden Y-axis
+        //                 show: false
+        //             },
+        //             axisTick: { // Hidden mark
+        //                 show: false
+        //             },
+        //             axisLabel: { // Hide tag
+        //                 show: false
+        //             },
+        //             splitLine: { // Custom gridline styles
+        //                 lineStyle: {
+        //                     color: 'rgba(233, 233, 233, 0.05)'
+        //                 }
+        //             },
+        //         },
+        //         series: [
+        //             {
+        //                 data: [220, 332, 201, 34],
+        //                 type: 'line',
+        //                 smooth: true,
+        //                 itemStyle: {
+        //                     color: "green"
+        //                 },
+        //                 symbol: "none",
+        //                 lineStyle: {
+        //                     width: 5
+        //                 },
+        //             },
+        //             {
+        //                 data: [20, 32, 21, 134],
+        //                 type: 'line',
+        //                 smooth: true,
+        //                 itemStyle: {
+        //                     color: "blue"
+        //                 },
+        //                 symbol: "none",
+        //             },
+        //             // {
+        //             //     data: [120, 32, 21, 124],
+        //             //     type: 'line',
+        //             //     smooth: true,
+        //             //     itemStyle: {
+        //             //         color: "purple"
+        //             //     }
+        //             // },
+        //         ]
+        //     };
+        //     const option2 = {
+        //         xAxis: {
+        //             type: 'category',
+        //             data: ["2023-4", "2023-5", "2023-6", "2023-7"],
+        //         },
+        //         yAxis: {
+        //             type: 'value',
+        //             axisLine: { // Hidden Y-axis
+        //                 show: false
+        //             },
+        //             axisTick: { // Hidden mark
+        //                 show: false
+        //             },
+        //             axisLabel: { // Hide tag
+        //                 show: false
+        //             },
+        //             splitLine: { // Custom gridline styles
+        //                 lineStyle: {
+        //                     color: 'rgba(233, 233, 233, 0.05)'
+        //                 }
+        //             },
+        //         },
+        //         series: [
+        //             {
+        //                 data: [220, 332, 201, 34],
+        //                 type: 'line',
+        //                 smooth: true,
+        //                 itemStyle: {
+        //                     color: "green"
+        //                 }
+        //             },
+        //             {
+        //                 data: [20, 321, 21, 134],
+        //                 type: 'line',
+        //                 smooth: true,
+        //                 itemStyle: {
+        //                     color: "blue"
+        //                 }
+        //             },
+        //             {
+        //                 data: [120, 32, 21, 124],
+        //                 type: 'line',
+        //                 smooth: true,
+        //                 itemStyle: {
+        //                     color: "purple"
+        //                 }
+        //             },
+        //         ]
+        //     };
+        //     machart.setOption(option);
+        //     // machart2.setOption(option2);
+        //     echartsAnd1.setOption(option);
+        //     // echartsAnd2.setOption(option2);
+        //     // 根据页面大小自动响应图表大小
+        //     window.addEventListener("resize", function () {
+        //         machart.resize();
+        //         // machart2.resize();
+        //         echartsAnd1.resize();
+        //         // echartsAnd2.resize();
+        //     });
+        // },
     }
 }
 </script>
@@ -701,7 +1002,7 @@ main {
 
             button {
                 margin-right: 1.875rem;
-                
+
                 cursor: pointer;
                 font-size: .875rem;
                 color: #F6F6FF;
@@ -710,7 +1011,7 @@ main {
                 border-radius: .625rem;
                 opacity: 1;
                 background: linear-gradient(71deg, #2A39FF 7%, #3DB9FF 90%);
-                backdrop-filter: blur(10px);
+                backdrop-filter: blur(3rem);
                 border: none;
 
                 &:hover {
@@ -739,8 +1040,6 @@ main {
         }
     }
 }
-
-
 
 .wrapper {
     margin-top: 8.875rem;
@@ -1256,7 +1555,7 @@ main {
 
 .journey {
     margin-bottom: 2rem;
-    height: 40.625rem;
+    // height: 40.625rem;
     padding: 0 22.5rem;
     margin-top: 6.25rem;
     position: relative;
@@ -1322,6 +1621,158 @@ main {
     .toggles {
         opacity: 0.5;
     }
+
+    .details {
+        margin-top: 17.8125rem;
+
+        .details-line {
+            margin-bottom: 8.75rem;
+
+            .details-text {
+                text-align: center;
+
+                >h2 {
+                    font-size: 3.125rem;
+                    font-weight: bold;
+                    letter-spacing: 0em;
+                    color: #FFFFFF;
+                }
+
+                .box {
+                    border-radius: .625rem;
+                    background: linear-gradient(290deg, rgba(16, 17, 36, 0.60) 11%, rgba(24, 26, 56, 0.60) 90%);
+                    box-sizing: border-box;
+                    border: .0625rem solid rgba(115, 114, 155, 0.4);
+                    box-shadow: inset 0rem 0rem 1.25rem 0rem rgba(115, 114, 155, 0.4);
+                    padding: 1.875rem 2.5rem;
+                    margin-top: 4.375rem;
+                    position: relative;
+
+                    .decorate1 {
+                        position: absolute;
+                        left: -1.5rem;
+                        top: -1.5rem;
+                        width: 3.5rem;
+                    }
+
+                    .decorate2 {
+                        position: absolute;
+                        right: -1.5rem;
+                        top: -1.5rem;
+                        width: 3.5rem;
+                    }
+
+                    >p {
+                        font-size: 1.25rem;
+                        font-weight: bold;
+                        line-height: 2.5rem;
+                        letter-spacing: 0em;
+                        color: #BCBBE7;
+                        text-align: left;
+                    }
+
+                    .details-img {
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                        margin-top: 3.125rem;
+
+                        img {
+                            width: 63.75rem;
+                            display: block;
+                        }
+                    }
+                }
+
+
+            }
+
+
+        }
+    }
+}
+
+.return {
+    padding: 0 22.5rem;
+    text-align: center;
+
+    >h2 {
+        font-size: 3.125rem;
+        font-weight: bold;
+        text-align: center;
+        letter-spacing: 0em;
+        color: #FFFFFF;
+        text-indent: 2em;
+    }
+
+    .data {
+        margin-top: 5rem;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        h3 {
+            font-size: 1.875rem;
+            font-weight: bold;
+            letter-spacing: 0em;
+            color: #FFFFFF;
+        }
+
+        .img {
+            margin-top: 1.875rem;
+            height: 30rem;
+            width: 70rem;
+            background-color: transparent;
+
+            img {
+                display: block;
+            }
+        }
+
+        .echarts-explain {
+            box-sizing: border-box;
+            padding: 0 5rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+
+            .empty-box1 {
+                width: 5rem;
+                height: .375rem;
+                background-color: green;
+                border-radius: .625rem;
+            }
+
+            .empty-box2 {
+                width: 5rem;
+                height: .1875rem;
+                background-color: blue;
+                border-radius: .625rem;
+            }
+
+            .empty-box3 {
+                width: 5rem;
+                height: .1875rem;
+                background-color: purple;
+                border-radius: .625rem;
+            }
+
+            h4 {
+                margin-top: .625rem;
+                font-size: 1rem;
+                font-weight: 100;
+            }
+
+            .olyexText {
+                font-weight: bold;
+                font-size: 1.5rem;
+            }
+        }
+    }
+}
+
+.return-and {
+    display: none;
 }
 
 
@@ -1421,8 +1872,8 @@ main {
                     box-sizing: border-box;
                     border: 1px solid rgba(115, 114, 155, 0.6);
 
-                    backdrop-filter: blur(10px);
-                    box-shadow: inset 0px 0px 20px 0px rgba(115, 114, 155, 0.4);
+                    backdrop-filter: blur(3rem);
+                    box-shadow: inset 0px 0px 5.8rem 0px rgba(115, 114, 155, 0.4);
                 }
 
             }
@@ -1820,7 +2271,7 @@ main {
                 background: rgba(18, 19, 41, 0.2);
                 box-sizing: border-box;
                 border: 1px solid rgba(115, 114, 155, 0.6);
-                backdrop-filter: blur(10px);
+                backdrop-filter: blur(3rem);
                 box-shadow: inset 0px 0px 5.8rem 0px rgba(115, 114, 155, 0.4);
                 margin-bottom: 5.8rem;
 
@@ -1863,6 +2314,144 @@ main {
             }
         }
 
+        .journey-card {
+            border-radius: 3rem;
+            opacity: 1;
+            background: linear-gradient(337deg, rgba(16, 17, 36, 0.60) 11%, rgba(24, 26, 56, 0.60) 90%);
+            box-sizing: border-box;
+            border: 1px solid rgba(115, 114, 155, 0.4);
+            // border-image: linear-gradient(157deg, #4B4E8A -4%, rgba(16, 17, 36, 0.00) 99%) 1;
+            backdrop-filter: blur(3rem);
+            box-shadow: inset 0px 0px 6rem 0px rgba(115, 114, 155, 0.4);
+            box-sizing: border-box;
+            padding: 13rem 6rem;
+            position: relative;
+            margin-top: 16rem;
+
+            >p {
+                font-size: 4.05rem;
+                font-weight: normal;
+                line-height: 8rem;
+                text-align: justify;
+                /* 浏览器可能不支持 */
+                letter-spacing: 0em;
+                color: #BCBBE7;
+            }
+
+            .img-box {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                margin-top: 13rem;
+
+                img {
+                    width: 75rem;
+                    display: block;
+                }
+            }
+
+            .decorate {
+                position: absolute;
+                left: 0px;
+                top: -4.3rem;
+                width: 11rem;
+            }
+
+            .decorate2 {
+                position: absolute;
+                right: 0px;
+                top: -4.3rem;
+                width: 11rem;
+            }
+        }
+
+    }
+
+    .return {
+        display: none;
+    }
+
+    .return-and {
+        display: block;
+        box-sizing: border-box;
+        padding: 0 5.8rem;
+        text-align: center;
+        margin-top: 17.3rem;
+
+        >h2 {
+            font-size: 8.1rem;
+            font-weight: bold;
+            text-align: center;
+            letter-spacing: 0em;
+            color: #FFFFFF;
+        }
+
+        .return-and-card {
+            margin-top: 8.7rem;
+            border-radius: 2.9rem;
+            opacity: 1;
+            background: rgba(18, 19, 41, 0.2);
+            box-sizing: border-box;
+            border: 1px solid #73729B;
+            backdrop-filter: blur(10px);
+            box-shadow: inset 0px 0px 5.8rem 0px rgba(115, 114, 155, 0.4);
+            padding: 5.8rem;
+
+            >h2 {
+                font-size: 5.8rem;
+                font-weight: bold;
+                letter-spacing: 0em;
+                color: #FFFFFF;
+            }
+
+            .echartsAnd1 {
+                width: 103.7rem;
+                height: 87rem;
+                background-color: transparent;
+            }
+
+            .echarts-adn-explain {
+                box-sizing: border-box;
+                padding: 0 17rem;
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+
+                .empty-box1 {
+                    width: 16rem;
+                    height: 1.3rem;
+                    background-color: green;
+                    border-radius: .625rem;
+                }
+
+                .empty-box2 {
+                    width: 13rem;
+                    height: 1.3rem;
+                    background-color: blue;
+                    border-radius: .625rem;
+                }
+
+                .empty-box3 {
+                    width: 13rem;
+                    height: 1.3rem;
+                    background-color: purple;
+                    border-radius: .625rem;
+                }
+
+                h4 {
+                    margin-top: 3rem;
+                    font-size: 4rem;
+                    font-weight: 100;
+                    letter-spacing: 0em;
+                    color: #FFFFFF;
+                }
+
+                .olyexText {
+                    font-weight: bold;
+                    font-size: 5.2rem;
+                }
+            }
+        }
     }
 }
 </style>

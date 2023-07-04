@@ -8,7 +8,9 @@ import VueMeta from 'vue-meta'
 import "../src/scss/fonts.css"
 import "../src/style/styles.css"
 import 'animate.css';
-
+// link echarts
+import echarts from "./util/echarts";
+Vue.prototype.$echarts = echarts;
 Vue.use(VueMeta)
 Vue.config.productionTip = false
 Vue.use(ElementUI);

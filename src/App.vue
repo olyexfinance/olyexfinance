@@ -61,6 +61,8 @@ body {
   background: #101124;
   color: #fff;
   background-image: url("./assets/webBackground.png") ;
+  background-repeat: no-repeat;
+  background-size: 120rem;
 }
 
 * {
@@ -74,9 +76,9 @@ a {
 
 @media (max-width: 768px) {
   body{
-    background-image: url("./assets/移动端-背景图.png") !important;
+    background-image: url("./assets/androidBackground.png") !important;
     background-repeat: no-repeat;
-    background-size: contain;
+    // background-size: cover;
   }
 }
 </style>
